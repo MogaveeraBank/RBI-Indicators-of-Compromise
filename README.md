@@ -1,4 +1,4 @@
-# RBI-Incident-of-Compromise
+# RBI-Indicators-of-Compromise
 
 References:
 
