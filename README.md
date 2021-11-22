@@ -1,5 +1,5 @@
 # RBI-Indicators-of-Compromise
-# List of IPV4 Addresses with reference to Following RBI circulars
+# List of IPV4 Addresses, Domain names and Hashes with reference to Following RBI circulars
 
 Advisory No: UCB_1/2020  
 Alert No: 9/2020  
