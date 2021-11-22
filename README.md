@@ -1,9 +1,9 @@
 # RBI-Indicators-of-Compromise
 # List of IPV4 Addresses with reference to Following RBI circulars
 
-Advisory No: UCB_1/2020
-Alert No: 9/2020
-Advisory No. UCB_1/2021  
+Advisory No: UCB_1/2020  
+Alert No: 9/2020  
+Advisory No. UCB_1/2021    
 Alert no: 2/2021  
 Advisory 3/2021  
 Advisory 5/2021  
