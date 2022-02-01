@@ -56,7 +56,7 @@ marcelbosgath.zapto.org
 cccicpatooluma.hopto.org
 framenet.gotdns.ch
 protogoo.ddnsking.com
-slot0.qiantuol.com:9081
+slot0.qiantuol.com
 3utilities.com
 zapto.org
 hopto.org
