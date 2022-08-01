@@ -16,5 +16,6 @@ Alert No: 9/2020
 Advisory: 6/2022  
 Alert No: 8/2022  
 Advisory: 9/2022  
-Alert no. 9/ 2022
+Alert no. 9/ 2022  
+Advisory No. 10/ 2022
 
