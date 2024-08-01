@@ -2,7 +2,7 @@
 # List of IPV4 Addresses, Domain names and Hashes with reference to Following RBI circulars  
 # Alerts and Advisories
 
-| Year | Type       | Number      |
+| Year | Type       | Circular Number      |
 |------|------------|-------------|
 | 2020 | Advisory   | UCB_1/2020  |
 | 2020 | Alert      | 9/2020      |
@@ -26,5 +26,3 @@
 | 2022 | Alert      | 13/2022     |
 | 2022 | Alert      | 14/2022     |
 | 2022 | Alert      | 15/2022     |
-
-
