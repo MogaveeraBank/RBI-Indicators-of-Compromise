@@ -99,8 +99,8 @@ file.io
 xinchao******.net
 p2.feefreepool.net
 xinchaocacdia.net
-www.premiumize.com
-www.sendspace.com
+premiumize.com
+sendspace.com
 fex.net
 transfer.sh
 send.exploit.in
