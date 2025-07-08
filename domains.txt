@@ -105,4 +105,16 @@ fex.net
 transfer.sh
 send.exploit.in
 docs.google.com
-
+buskwet.s3.eu-west-1.amazonaws.com
+ominilocker.s3.eu-west-1.amazonaws.com 
+ominilocker.s3.eu-west-1.amazonaws.com
+buskwet.s3.eu-west-1.amazonaws.com/solo68no-obf.jar 
+mbycket45344.s3.eu-north-1.amazonaws.com/solo68no-obf.jar 
+ominilocker.s3.eu-west-1.amazonaws.com/solo68no-obf.jar 
+ominilocker.s3.eu-west-1.amazonaws.com/jre1.8.zip 
+seasongretting.s3.eu-west-1.amazonaws.com/soso.jar 
+ominilocker.s3.eu-west-1.amazonaws.com/kat.exe 
+buskwet.s3.eu-west-1.amazonaws.com/mimp.exe 
+buskwet.s3.eu-west-1.amazonaws.com/gd.exe 
+github.com/mvgelak/bett65/raw/refs/heads/main/lnternet_bnk_details_Modification_trxnd
+ _jpg.zip
